@@ -1,2 +1,2 @@
 # Raciocinio-Algoritmo
-Aqui vamos ver como que eu crio uma pasta pra organizar tudo os projetos nessa brincadeira 
+Todos os arquivos já realizados nas asulas de raciocinio algoritmo da professora lisiane foram colocados com suas respectivas datas 
