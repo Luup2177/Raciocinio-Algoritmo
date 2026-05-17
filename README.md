@@ -74,6 +74,6 @@ Com este projeto foi possível aprender:
 ---
 
 ## 👨‍💻 Autor
+Luigi Ulbrich Pietrobon - 1º Período de Engenharia de Software
 
-Projeto desenvolvido para fins educacionais nas aulas de **Raciocínio Algorítmico**.
 
